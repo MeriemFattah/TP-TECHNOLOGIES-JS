@@ -1,3 +1,6 @@
 [submodule "tp-express"]
 	path = tp-express
 	url = https://github.com/MeriemFattah/express-crud-app.git
+[submodule "tp-book-reading-tracker"]
+	path = tp-book-reading-tracker
+	url = https://github.com/MeriemFattah/Book-Reading-Tracker
