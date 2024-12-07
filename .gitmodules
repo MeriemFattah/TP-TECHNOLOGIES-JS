@@ -4,3 +4,6 @@
 [submodule "tp-book-reading-tracker"]
 	path = tp-book-reading-tracker
 	url = https://github.com/MeriemFattah/Book-Reading-Tracker
+[submodule "TP2-Angular"]
+	path = TP2-Angular
+	url = https://github.com/MeriemFattah/TP2-Angular.git
